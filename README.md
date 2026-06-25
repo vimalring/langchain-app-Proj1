@@ -75,7 +75,7 @@ langchain-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vimalring/langchain-app.git
+git clone https://github.com/vimalring/langchain-app-Proj1
 
 cd langchain-app
 ```
